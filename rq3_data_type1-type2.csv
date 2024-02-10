@@ -1,3 +1,4 @@
+user_name,package_name,event,days,star_user,fork_user,contributor_user,issue_new_user,pl_new_user,release_user,release_package,cve,is_web,has_cve,star_user_log10,fork_user_log10,contributor_user_log10,issue_new_user_log10,pl_new_user_log10,release_user_log10,release_package_log10
 1200wd/bitcoinlib,aaa_numpy/numpy,1,1,32,7,17,16,3,2,4,0,0,0,1.51851394,0.903089987,1.255272505,1.230448921,0.602059991,0.477121255,0.698970004
 1200wd/bitcoinlib,aaa_numpy/numpy,1,119,40,9,12,7,13,3,4,0,0,0,1.612783857,1,1.113943352,0.903089987,1.146128036,0.602059991,0.698970004
 1200wd/bitcoinlib,aaa_numpy/numpy,1,243,36,14,7,6,0,0,2,0,0,0,1.568201724,1.176091259,0.903089987,0.84509804,0,0,0.477121255
